@@ -1,4 +1,4 @@
-                                                                  👨‍💻 Aafrin Farzana's AI & Machine Learning Portfolio
+                                                  👨‍💻 Aafrin Farzana's AI & Machine Learning Portfolio
 👋 Hi there! I’m Aafrin Farzana, a passionate Artificial Intelligence and Machine Learning Engineer with a B.Tech in Artificial Intelligence and Data Science. I specialize in building intelligent solutions across NLP, Computer Vision, and Predictive Analytics, combining data-driven insights with deep learning techniques.
 
 💡 I’ve developed  AI models using TensorFlow, Keras, Scikit-learn, OpenCV, and Gen AI, and gained hands-on experience through internships at NStores Retech, Dmex, and e-Soft.
